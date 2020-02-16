@@ -1,6 +1,6 @@
 # Sorting
 
-mypackages sort is a Python library for dealing with word pluralization.
+mypackages sort n items numerical value in descending order
 
 ## Installation
 
